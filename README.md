@@ -29,7 +29,7 @@ Precision, recall and F1 score are reported explicitly, since accuracy alone is 
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,python,scikitlearn,pandas" />
+<img src="https://tech-stack.wontory.dev/api/orbit?text=StrokeAI&slugs=tensorflow,python,scikitlearn,pandas" alt="tech stack orbit" width="380" />
 </div>
 
 TensorFlow and Keras for the ANN, imbalanced-learn for SMOTE oversampling, Scikit-learn for preprocessing and metrics, and Pandas for data handling.
